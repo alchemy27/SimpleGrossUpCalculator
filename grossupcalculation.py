@@ -3,7 +3,7 @@ import math
 
 # Global Variables
 # Salary + List of Tax Rates (state = CA), changeable
-taxableGrossSalary = 3000
+taxableGrossSalary = 1000
 
 federalTax = 0.25
 stateTax = 0.035
